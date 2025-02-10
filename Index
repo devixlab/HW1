@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Devin Verity">
+  <meta name="description" content="An informational webpage about award-winning singer-songwriter Tyler, The Creator and his career.">
+  <meta name="keywords" content="Tyler, The Creator, Hip-Hop, Odd Future, IGOR, Call Me If You Get Lost">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tyler, The Creation</title>
+</head>
+<body>
+
+  <header>
+    <h1>Tyler, The Creator</h1>
+    <p><strong>Tyler, The Creator</strong> is an American rapper, singer, and producer known for boundary-pushing music and vision. He is the co-founder of the hip-hop collective <em>Odd Future</em> and recently released his latest album, <mark>CHROMAKOPIA</mark>.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Early Start</h2>
+      <p>Tyler Gregory Okonma, a.k.a. Tyler, The Creator, was born in 1991 in Ladera Heights, California. He had an early interest in music and started making his first mixtapes and melodies as a teen. In 2007, he co-founded Odd Future, which propelled him to fame as a result of his signature energetic and iterative music style.</p>
+    </section>
+
+    <section>
+      <h2>Career</h2>
+      <p>Since his debut album <strong>"Goblin"</strong> in 2011, Tyler has released multiple critically acclaimed albums, winning numerous awards including Grammys for his albums <em>"IGOR"</em> and "Call Me If You Get Lost." His music usually explores themes of identity, creativity, and self-expression, often defying traditional hip-hop composition.</p>
+    </section>
+
+    <section>
+      <h2>Discography</h2>
+      <ol>
+        <li>Goblin (2011)</li>
+        <li>Wolf (2013)</li>
+        <li>Cherry Bomb (2015)</li>
+        <li>Flower Boy (2017)</li>
+        <li>IGOR (2019)</li>
+        <li>Call Me If You Get Lost (2021)</li>
+        <li>CHROMAKOPIA (2024)</li>
+      </ol>
+    </section>
+
+    <section>
+      <h3>More Info</h3>
+      <ul>
+        <li>Collaborations</li>
+        <li>Themes</li>
+        <li>Notable Events</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Gallery</h3>
+      <figure>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image 1">
+        <figcaption>Album Art Example 1</figcaption>
+      </figure>
+      <figure>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image 2">
+        <figcaption>Album Art Example 2</figcaption>
+      </figure>
+      <figure>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image 3">
+        <figcaption>Album Art Example 3</figcaption>
+      </figure>
+    </section>
+
+    <address>
+      <p>Author Info: Devin Verity, known to none as Devin, The Creator, is a student at the University of Miami.</p>
+      <p>Visit Tyler's <a href="https://tylerthecreator.com" target="_blank">Official Website</a> or follow his <a href="https://twitter.com/tylerthecreator" target="_blank">Twitter Page</a>.</p>
+    </address>
+
+  </main>
+
+  <footer>
+    <p>Thank you for visiting this profile page dedicated to Tyler, The Creator.</p>
+  </footer>
+
+  <!-- This webpage was created as part of a web lab assignment -->
+  
+</body>
+</html>
